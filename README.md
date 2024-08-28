@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Namasthe 🙏🏽, Supreeth from Bengaluru here.</h1>
+<h3 align="center">A passionate Hardware Designer from India 🇮🇳</h3>
 
-<!--
-**supreethnadig/supreethnadig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hbharathbhat&label=Profile%20views&color=0e75b6&style=flat" alt="hbharathbhat" /> </p>
 
-Here are some ideas to get you started:
+<!--- 🌱 I’m currently learning **C++**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Have a look at my [Portfolio](https://hbharathbhat.github.io/Portfolio/)
+
+- 💬 Ask me about **Verilog, HTML5, CSS, Python, C, C++**
+
+- 📫 Wanna say Hi? **bharathbhat2805@gmail.com**-->
+<p align="center">You are free to contact me at <a href="mailto:bharathbhat2805@gmail.com">bharathbhat2805@gmail.com</a>, <a href="https://hbharathbhat.github.io/Portfolio">Portfolio</a> </p>
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<!-- <a href="https://www.linkedin.com/in/hbharathbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hbharathbhat" height="30" width="40" /></a> -->
+<!--   <a href="https://twitter.com/hbharathbhat">
+  <img alt="H Bharath Bhat| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>&nbsp;&nbsp; -->
+<a href="https://www.linkedin.com/in/hbharathbhat/">
+  <img alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>&nbsp;&nbsp;
+<a href="https://t.me/hbharathbhat">
+  <img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/hbharathbhat/">
+  <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>&nbsp;&nbsp;
+<!-- <a href="https://www.reddit.com/user/">
+  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a> -->
+<a href="https://leetcode.com/hbharathbhat/">
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/></a>&nbsp;&nbsp;
+<!-- <a href="https://www.codechef.com/users/">
+  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a> -->
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">Python · Verilog · C · Web Dev<br>Visual Studio Code · Xilinx Vivado/ISE · Matlab · Multisim · Cedar<br>Jupyter Notebook · Spyder · Cadence</p>
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supreethnadig&show_icons=true&locale=en&layout=compact" alt="supreethnadig"/></p>
+
+<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=supreethnadig&show_icons=true&locale=en" alt="supreethnadig"/></p>-->
+
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=supreethnadig&theme=meta-light&border_radius=5.5&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a></p>
