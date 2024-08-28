@@ -1,7 +1,7 @@
 <h1 align="center">Namasthe 🙏🏽, Supreeth from Bengaluru here.</h1>
 <h3 align="center">A passionate Hardware Designer from India 🇮🇳</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=supreethnadig&label=Profile%20views&color=0e75b6&style=flat" alt="hbharathbhat" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=supreethnadig&label=Profile%20views&color=0e75b6&style=flat" alt="supreethnadig" /> </p>
 
 <!--- 🌱 I’m currently learning **C++**
 
