@@ -1,7 +1,7 @@
 <h1 align="center">Namasthe 🙏🏽, Supreeth from Bengaluru here.</h1>
 <h3 align="center">A passionate Hardware Designer from India 🇮🇳</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hbharathbhat&label=Profile%20views&color=0e75b6&style=flat" alt="hbharathbhat" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=supreethnadig&label=Profile%20views&color=0e75b6&style=flat" alt="hbharathbhat" /> </p>
 
 <!--- 🌱 I’m currently learning **C++**
 
@@ -10,7 +10,7 @@
 - 💬 Ask me about **Verilog, HTML5, CSS, Python, C, C++**
 
 - 📫 Wanna say Hi? **bharathbhat2805@gmail.com**-->
-<p align="center">You are free to contact me at <a href="mailto:bharathbhat2805@gmail.com">bharathbhat2805@gmail.com</a>, <a href="https://hbharathbhat.github.io/Portfolio">Portfolio</a> </p>
+<p align="center">You are free to contact me at <a href="mailto:supreethnadig95@gmail.com">supreethnadig95@gmail.com</a> <!--<a href="https://hbharathbhat.github.io/Portfolio">Portfolio</a>--> </p>
 
 
 <h3 align="center">Connect with me:</h3>
