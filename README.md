@@ -13,7 +13,7 @@
 <p align="center">You are free to contact me at <a href="mailto:supreethnadig95@gmail.com">supreethnadig95@gmail.com</a> <!--<a href="https://hbharathbhat.github.io/Portfolio">Portfolio</a>--> </p>
 
 
-<
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
